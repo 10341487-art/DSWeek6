@@ -1,2 +1,2 @@
 # DSWeek6
-Cass Lesson Sample
+Class Lesson Sample
